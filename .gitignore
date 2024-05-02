@@ -1,0 +1,21 @@
+
+# Useful link for .gitignore : 
+# https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+# https://www.squash.io/how-to-add-gitignore-file-for-python-projects/
+
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore editor-specific files
+.vscode/
+
+test?.py
+*.png
+*.jpeg
+*.jpg
